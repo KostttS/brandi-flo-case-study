@@ -4,6 +4,15 @@ Mobile e-commerce app for branded products with catalog, filters, wishlist, orde
 
 The app was built for a real commercial project and focused on a complete shopping experience for mobile users.
 
+
+## Visual preview
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f14445227565267.68420b082a1fd.jpg" alt="Brandi Flo app screens" width="100%">
+</p>
+
+[View the complete visual case study on Behance](https://www.behance.net/gallery/227565267/BRANDI-FLO)
+
 ---
 
 ## My role
